@@ -1,0 +1,4 @@
+Am facut o figura noua (cerc) si am folosit un file chooser pentru butoanele save si load. 
+Nu am reusit sa implementez un mod pentru a sterge figurile.
+O mica observatie in legatura cu Configuration Panel:  el se adapteaza dupa ce desenez prima figura.
+Am atasat si un filmulet cu rezultatul final.
